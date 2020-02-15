@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+.logo{
+color:#ffff;
+float:left;
+line-height: 30px;
+font-size: 24px;
+padding:10px;
+
+}
+.nav{
+background-color: #1d1d1d;
+padding:5px;
+overflow: hidden;
+}
+.nav ul{
+  border:px solid red;
+width:30%;
+float:right;
+}
+.nav li{
+list-style-type:none;
+display:inline-block;
+width:100px;
+}
+.nav a{
+
+  text-decoration: none;
+  color:#ffffff;
+  
+
+}
+table{
+border-collapse: collapse;
+border:2px solid #eeee;
+padding:10px;
+width:100%;
+}
+tr:nth-child(even){
+background-color: #2da2d8;
+color:#fffffd;
+
+}
+td{
+  padding:10px;
+  border:1px solid #cccc;
+}
