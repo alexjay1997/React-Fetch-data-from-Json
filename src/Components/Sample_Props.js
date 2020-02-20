@@ -8,8 +8,8 @@ render(){
 
 <div>
     {/* Props! pano gamitin ---------------- start-------------- */}
-<h1> {this.props.tangaTo}</h1>
-<h1> {this.props.bobo}</h1>
+<h1> {this.props.propsOne}</h1>
+<h1> {this.props.propsTwo}</h1>
     {/*---------------------------------------end---------------- */}
 </div>
 );

@@ -66,18 +66,31 @@ width:100px;
   
 
 }
+.tblData{
+width:70%;
+margin:0 auto;
+
+}
 table{
 border-collapse: collapse;
-border:2px solid #eeee;
+
 padding:10px;
 width:100%;
 }
-tr:nth-child(even){
-background-color: #2da2d8;
-color:#fffffd;
+th{
+  background: #5ecbfd;
+  color: #ffffff;
+}
+tr:nth-child(odd){
+
+
 
 }
-td{
+td,th{
   padding:10px;
-  border:1px solid #cccc;
+  border-bottom:1px solid #cccc;
+}
+td img{
+width:70px;
+
 }

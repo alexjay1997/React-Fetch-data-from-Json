@@ -6,7 +6,7 @@ import {BrowserRouter as Router, Switch,Route} from 'react-router-dom';
 import Nav from './Nav';
 import About from './About';
 import Home from './Home';
-import Sample_Props from './Components/Sample_Props.js'
+
 
 
 
